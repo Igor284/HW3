@@ -1,0 +1,6 @@
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\bin\Debug\Electric.exe.config
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\bin\Debug\Electric.exe
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\bin\Debug\Electric.pdb
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\obj\Debug\Electric.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\obj\Debug\Electric.exe
+C:\Users\TurboPC\source\repos\ConsoleApp1\Electric\obj\Debug\Electric.pdb
